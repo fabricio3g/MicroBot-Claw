@@ -1,0 +1,14 @@
+{
+    "wifi_ssid": "",
+    "wifi_pass": "",
+    "tg_token": "",
+    "provider": "openrouter",
+    "api_key": "",
+    "model": "claude-opus-4-5",
+    "openrouter_key": "",
+    "openrouter_model": "deepseek/deepseek-chat-v3.1",
+    "proxy_host": "",
+    "proxy_port": "",
+    "search_key": "",
+    "http_port": "8080"
+}

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch",
+      "Edit",
+      "Bash(cd:*)",
+      "Bash(ls:*)",
+      "Write"
+    ]
+  }
+}

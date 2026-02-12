@@ -1,0 +1,8 @@
+{
+    "name": "get_exchange_rate",
+    "description": "Get currency exchange rate between two currencies",
+    "args": {
+        "base": "Base currency code (default: USD)",
+        "target": "Target currency code (default: ARS)"
+    }
+}
