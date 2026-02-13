@@ -16,9 +16,6 @@ opkg install curl micropython
 opkg install curl micropython
 ```
 
-## Deployment & Updates
-See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) for detailed instructions on how to copy files to your router and update the bot.
-
 ## Quick Start
 
 ```bash
